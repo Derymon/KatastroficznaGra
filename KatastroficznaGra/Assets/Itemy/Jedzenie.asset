@@ -9,12 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 87c55d86997b08b4eb9f41e9823d2594, type: 3}
-  m_Name: two-handed sword
+  m_Script: {fileID: 11500000, guid: b17ed56a3e047104e803f091526296db, type: 3}
+  m_Name: Jedzenie
   m_EditorClassIdentifier: 
-  onehanded: 1
-  rangedWeapon: 0
-  damage: 200
-  range: 5
-  attackSpeed: 0.7
-  weaponPrefab: {fileID: 0}
+  itemNazwa: Jedzenie
+  itemID: 3
+  itemOpis: "Og\xF3lnie przyj\u0119ta strawa"
+  itemIkona: {fileID: 2800000, guid: 577c824ff7616074ebcc5abae256ce68, type: 3}
